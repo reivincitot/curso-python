@@ -1,0 +1,1 @@
+NOMBRE_COMPLETO = 'Curso de python profesional codigo facilito' #en python no existen las constantes, pero la comunidad definio una convencion para que una variable sea usada como constante y la convencion es que el nombre de la variable se escriba completamente en mayusculas
