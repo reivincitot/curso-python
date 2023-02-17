@@ -1,3 +1,11 @@
+import string
+import random
+
+
+chars = string.ascii_uppercase + string.digits
+letters = ''.join(random.choice(chars) for _ in range(10))
+
+print (letters)
 #esto es un comentario
 print('esto no es un comentario con #')
 
